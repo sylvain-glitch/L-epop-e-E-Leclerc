@@ -1,0 +1,12 @@
+{
+  "name": "epopee-e-leclerc-e-works-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "L'Épopée E.Leclerc - jeu pédagogique E-Works multijoueur en ligne",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

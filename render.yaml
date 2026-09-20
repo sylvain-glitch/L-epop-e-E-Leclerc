@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: epopee-e-leclerc
+    env: node
+    plan: free
+    buildCommand: ""
+    startCommand: npm start
